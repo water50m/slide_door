@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/User/My project (3)"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "My project (3).sln"
+	}
+}
